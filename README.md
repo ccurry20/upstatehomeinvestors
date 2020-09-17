@@ -23,7 +23,7 @@ To create a real estate website, that has an excellent UI.  Allows users to view
 <br/>
 
 
-## Web Developes
+## Web Developer
 [<img src="https://avatars1.githubusercontent.com/u/19153270?v=4" width = "100" />](https://github.com/ccurry20)
 
 
